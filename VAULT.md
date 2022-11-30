@@ -4,18 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>INTRO</title>
 </head>
 <body>
     <h1>PROJET 1</h1>
     <h2>version 0.1</h2>
-        
-        <p>Lorem ipsum dolor sit amet consectetur 
-         adipisicing elit. Aliquam possimus odio iste,
-         repellendus commodi fuga, eaque ipsum illum
-         quibusdam numquam, aspernatur quo necessitatibus
-      ea ab accusantium laboriosam deserunt consequuntur 
-    similique?</p>
+    <h3>MFTNVINC</h3>
+    
+        <p>Meta-Fungible Token Network Vault Incorporated
+           MFT Naamloze Vennootschap</p>
 
 </body>
 </html>
